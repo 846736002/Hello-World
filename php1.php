@@ -1,2 +1,2 @@
-<?php
+<?php1
 phpinfo();
